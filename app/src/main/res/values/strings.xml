@@ -1,0 +1,42 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Phone Usage Tracker</string>
+    
+    <!-- Main Activity -->
+    <string name="app_description">Phone will automatically shut down after 3 hours of usage</string>
+    <string name="status">Status:</string>
+    <string name="status_active">Active</string>
+    <string name="status_inactive">Inactive</string>
+    <string name="time_remaining">Time Remaining:</string>
+    <string name="time_remaining_format">%02d:%02d</string>
+    <string name="enable_tracking">Enable Usage Tracking</string>
+    <string name="disable_tracking">Disable Usage Tracking</string>
+    <string name="reset_timer">Reset Timer</string>
+    
+    <!-- Dialogs -->
+    <string name="reset_timer_dialog_title">Reset Timer</string>
+    <string name="reset_timer_dialog_message">Are you sure you want to reset the usage timer?</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="timer_reset">Timer has been reset</string>
+    
+    <!-- Device Admin -->
+    <string name="device_admin_explanation">This permission is required to lock the device after the specified usage time.</string>
+    <string name="lock_screen_message">Time's up! This device has been locked. Please contact the device administrator to unlock it.</string>
+    <string name="admin_required">Device admin permission is required</string>
+    <string name="admin_enabled">Device admin enabled</string>
+    <string name="admin_disabled">Device admin disabled</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">Usage Tracking Service</string>
+    <string name="notification_title">Phone Usage Tracker</string>
+    <string name="notification_text">Monitoring phone usage time</string>
+    
+    <!-- Errors -->
+    <string name="error_admin_permission_required">Device admin permission is required to enable usage tracking</string>
+    <string name="error_generic">An error occurred. Please try again.</string>
+    
+    <!-- Success messages -->
+    <string name="success_tracking_enabled">Usage tracking has been enabled</string>
+    <string name="success_tracking_disabled">Usage tracking has been disabled</string>
+</resources>
