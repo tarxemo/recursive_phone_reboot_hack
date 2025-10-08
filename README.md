@@ -50,9 +50,3 @@ If you get locked out:
 2. Go to Settings > Security > Device Administrators
 3. Disable the app's admin privileges
 4. Uninstall the app
-
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-For educational inquiries or security concerns, please contact [your-email@example.com](mailto:your-email@example.com)
